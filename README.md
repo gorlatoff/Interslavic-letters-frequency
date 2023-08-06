@@ -83,11 +83,11 @@ Budemo izpolniti toj kod dva raza, za polny, etimologičny alfabet medžuslovjan
 
 Itak, statistika za etimologičny:
 
-![Figure_1](C:\Users\gorlatov\Box\Typora\Images for Typora\Figure_1.png)
+![Figure_1](Figure_1.png)
 
 I za standardny alfabet:
 
-![Figure_2](C:\Users\gorlatov\Box\Typora\Images for Typora\Figure_2.png)
+![Figure_2](Figure_2.png)
 
 Možemo tut viděti věči, o ktoryh mnogi ljudi myslili i ranje. Tak, *Yy* i *Ěě* sut najmenje važne iz standardnyh suglasok, i zaisto imamo projekty, ktore jih ignorujut. *Ęę*, *Ųų* i *Åå* sut najvyše česte etimologične bukvy, i rekomendacija učiti se jim jesvovala i ranje. 
 
