@@ -91,7 +91,7 @@ I za standardny alfabet:
 
 Možemo tut viděti věči, o ktoryh mnogi ljudi myslili i ranje. Tak, *Yy* i *Ěě* sut najmenje važne iz standardnyh suglasok, i zaisto imamo projekty, ktore jih ignorujut. *Ęę*, *Ųų* i *Åå* sut najvyše česte etimologične bukvy, i rekomendacija učiti se jim jesvovala i ranje. 
 
-Imamo takože autsajdera, *Đđ* ne jest ni često uživana, ni važna za grammatiku kako mekke zvuky ťŕćńľśďź. 
+Imamo takože autsajdera, *Đđ* ne jest ni često uživana, ni važna za grammatiku kako mekke zvuky *ťŕćńľśďź*. 
 
 
 
