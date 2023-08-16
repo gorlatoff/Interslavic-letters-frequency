@@ -32,7 +32,7 @@ Okej, jesmo sdělali dobro dělo i tutčas jest vrěme vratiti se do raboty.
 
 
 
-# Tvojrenje analizy
+# Tvorjenje analizy
 
 Za tvorjenje diagrama upotrěbimo popularnu biblioteku [Matplotlib](https://pypi.org/project/matplotlib/) (Ili Plotly/Seaborn sut lěpje? Čto myslite?)
 
