@@ -1,4 +1,4 @@
-Kake bukvy sut najvyše važne pri učenju pravopisa i izgovora? Kake potrěbujut byti centralne pri tvorjenju, napriměr, dizajna klaviatury? Jest li standardny alfabet medžuslovjanskogo dostatočny, ili něktore etimologične litery takože budut dobre? Na to pytanje nam pomože odgovoriti statistika upotrěbjenja medžuslovjanskyh liter, i, na ščestje, sdělati ju sovsim ne jest težko.
+Kake bukvy sut najvyše važne pri učenju pravopisa i izgovora? Kake potrěbujut byti centralnymi pri tvorjenju, napriměr, dizajna klaviatury? Jest li standardny alfabet medžuslovjanskogo dostatočny, ili něktore etimologične litery takože budut dobre? Na to pytanje nam pomože odgovoriti statistika upotrěbjenja medžuslovjanskyh liter, i, na ščestje, sdělati ju sovsim ne jest težko.
 
 ## Etap 1, sbiranje tekstov
 
@@ -108,6 +108,9 @@ def transliteracija(text, lang):
         print(f"'{letters[0]}' - '{letters[1]}'")
         text = text.replace(letters[0], letters[1])
     return text
+
+text_standard_lat = transliteracija(text, "isv_to_standard")
+text_standard_cyr = transliteracija(text, 'isv_to_cyrillic')
 ```
 </details>
 
