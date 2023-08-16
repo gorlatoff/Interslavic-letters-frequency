@@ -89,6 +89,29 @@ I za standardny alfabet:
 
 ![freq_lat](freq_lat.png)
 
+
+
+
+<details>
+  <summary>Transliteracija do standardnyh kirilice i latinice rabotaje dostatočno prosto. To jest oproščeny priměr, ktory ne uměje rabotati s VELIKYMI bukvami</summary>
+
+```python
+trans_tables = { 'isv_to_standard': 'ć-č ć-č ć-č ś-s ź-z ŕ-r ĺ-l ľ-l ń-n t́-t ť-t d́-d ď-d đ-dž ò-o ȯ-o ė-e è-e č-č š-š ž-ž ě-ě е̌-ě å-a ę-e ų-u',
+                 'isv_to_cyrillic': 'ń-н ľ-л nj-њ lj-љ ć-ч ć-ч ć-ч ś-с ź-з ŕ-р t́-т ť-т d́-д ď-д đ-дж ò-о ȯ-о ė-е è-е č-ч š-ш ž-ж ě-є е̌-є ě-є å-а ę-е ų-у a-а b-б c-ц č-ч d-д e-е f-ф g-г h-х i-и j-ј k-к l-л m-м n-н o-о p-п r-р s-с š-ш t-т u-у v-в y-ы z-з ž-ж',
+}
+
+def transliteracija(text, lang):
+    if lang not in trans_tables.keys():
+        return text
+    for i in trans_tables[lang].split(' '):
+        letters = i.split('-')
+        print(f"'{letters[0]}' - '{letters[1]}'")
+        text = text.replace(letters[0], letters[1])
+    return text
+```
+</details>
+
+
 Možemo tut viděti věči, o ktoryh mnogi ljudi myslili i ranje. Tak, *Yy* i *Ěě* sut najmenje važne iz standardnyh suglasok, i zaisto imamo projekty, ktore jih ignorujut. *Ęę*, *Ųų* i *Åå* sut najvyše česte etimologične bukvy, i rekomendacija učiti se jim jesvovala i ranje. 
 
 Imamo takože autsajdera, *Đđ* ne jest ni često uživana, ni važna za grammatiku (kako mekke zvuky *ŕćńśźťďľ*  ).
@@ -98,15 +121,7 @@ Kako bonus, budemo pogleděti na kirilicu i čestotnost kiriličnyh bukv њ i љ
 ![freq_kir](freq_kir.png)
 
 <details>
-  <summary>Spoiler warning</summary>
-  
-  Spoiler text. Note that it's important to have a space after the summary tag. You should be able to write any markdown you want inside the `<details>` tag... just make sure you close `<details>` afterward.
-  
-  ```javascript
-  console.log("I'm a code block!");
-  ```
-  
-
+  <summary>Polny kod možete uviděti tut:</summary>
 
 ```python
 import matplotlib.pyplot as plt
@@ -151,3 +166,7 @@ count_letters_frequency(text_standard_lat, isv_letters_lat, 'Čęstotnosť uživ
 count_letters_frequency(text_standard_cyr, isv_letters_cyr, 'Čęstotnosť uživańja liter v tekstu, kirilica')
 ```
 </details>
+
+
+
+Htěl byh povtoriti tu rabotu za druge slovjanske jezyky, zatože ne jesm smogl najdti statistiku za vsaky jezyk. Či někto znaje male ale mnogojezyčne datasety, ktore sut dobre za toj cělj?
