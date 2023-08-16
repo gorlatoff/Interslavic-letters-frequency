@@ -75,6 +75,9 @@ LANGS = "isv en ru uk be pl cs sk bg mk sr hr sl de nl eo".split(' ')
 
 trans_tables = { #'isv_to_slovianto': 'ć-č ś-s ź-z ŕ-r ĺ-l ľ-l ń-n t́-t ť-t d́-d ď-d đ-dž ȯ-o òė-e č-č š-š ž-ž ě-ě е̌-ě ě-e å-a ę-e ų-u y-i',
                  'isv_to_standard': 'ć-č ć-č ć-č ś-s ź-z ŕ-r ĺ-l ľ-l ń-n t́-t ť-t d́-d ď-d đ-dž ò-o ȯ-o ė-e è-e č-č š-š ž-ž ě-ě е̌-ě å-a ę-e ų-u',
+#                 'isv_to_cyrillic': 'ń-нь nj-њ lj-љ ĺ-ль ľ-ль ć-ч ć-ч ć-ч ś-с ź-з ŕ-р t́-т ť-т d́-д ď-д đ-дж ò-о ȯ-о ė-е è-е č-ч š-ш ž-ж ě-є е̌-є ě-є å-а ę-е ų-у a-а b-б c-ц č-ч d-д e-е f-ф g-г h-х i-и j-ј k-к l-л m-м n-н o-о p-п r-р s-с š-ш t-т u-у v-в y-ы z-з ž-ж',
+                 'isv_to_cyrillic': 'ń-н ľ-л nj-њ lj-љ ć-ч ć-ч ć-ч ś-с ź-з ŕ-р t́-т ť-т d́-д ď-д đ-дж ò-о ȯ-о ė-е è-е č-ч š-ш ž-ж ě-є е̌-є ě-є å-а ę-е ų-у a-а b-б c-ц č-ч d-д e-е f-ф g-г h-х i-и j-ј k-к l-л m-м n-н o-о p-п r-р s-с š-ш t-т u-у v-в y-ы z-з ž-ж',
+
                  'ru': 'ё-е а́-а е́-е и́-и о́-о у́-у ы́-ы э́-э ю́-ю я́-я',
                  'uk': 'ґ-г а́-а е́-е и́-и о́-о у́-у ы́-ы є́-є ю́-ю я́-я і́-і ї́-ї',  
                  'be': 'ґ-г а́-а е́-е и́-и о́-о у́-у ы́-ы э́-э ю́-ю я́-я і́-і',  
@@ -87,11 +90,24 @@ trans_tables = { #'isv_to_slovianto': 'ć-č ś-s ź-z ŕ-r ĺ-l ľ-l ń-n t́-t
 def transliteracija(text, lang):
     if lang not in trans_tables.keys():
         return text
-    replaces = (trans_tables[lang] + trans_tables[lang].upper())
+    replaces = (trans_tables[lang] + " " + trans_tables[lang].upper())
     for i in replaces.split(' '):
         letters = i.split('-')
+        print(f"'{letters[0]}' - '{letters[1]}'")
         text = text.replace(letters[0], letters[1])
     return text
+
+# text = """
+# Prošli sųt dva dnje. Dabog ščedro dari Kamenogråd svojim Sòlncem. Gråd imaje tutčas kolory mlådoj vesny. Větr radostno dvigaje modre horųgvy, na ktoryh namaljevano jest sivo, orľje pero. One stojęt gòrdo na věžah i kamennyh plotah. Glåvny gråd Zapadnogo Vladstva izględaje gòrdo, no skromno. Pomimo svojej velikosti, mentaľnosť žiteljev gråda cěly čas jest dosť seľska i prosta. Na ulicah jest mnogo ljudij, a najmnogo v centru. Trgovišče izględaje tutčas kako poljana, na ktoroj jest veliko mnogo råzlično-kolorovyh cvětov. Kvadratny prostor gladkoj zemje među budynkami izględaje cělkom drugo v dènj, než v noći. Nahoslav ne mogl by daže pomysliti, čto oni sųt byli tut několiko dněv nazad, okrųženi temnosťjų i mråkom, pòlni straha i bojaznji. Strah i bojaznj sųt tute elementy, ktore sjedinjajųt tamtų noć i tutoj dènj. Jest tako, zato čto Bělozorjanin jest trevožny i ne čuje sę dobro, kògda on hodi među trgovymi magazinami. Kto može znati, kako dobro organizovana jest tamta grupa, ktora jih tògda pohytila i zaključila v tjuŕmě? Izględaje, že jih jest vyše, než trěh råzbojnikov. Pravdivo mlådèc i děvčina sųt v grådu pŕvo-kråtno od tamtogo momenta. No tako ili inako, jest potrěbno tut sdělati několiko děl.
+# Neočekyvano on čuje trgnųťje za svoj rųkav. Fialomira oglušaje jego črne myslji i vraćaje jego do reaľnosti. Ukazyvaje ona dlånjų někakovo stojišče s žeńskym ukrašeńjem. Oni idųt tam. Děvčina spokojno ględaje blěskajųće prědmety. Našijniky, krasne naušnice, pojasy i råzličnų drugų bižuterijų. Tuto jest raj za vśako děvčę iz měščańskoj klasy. Děvkų ne zajmaje ničto drugo. Možno li ona imaje pravdų? Či bųdųt li råzbojniki prijdti tut, kògda jest jasny dènj?
+# Děvčina dŕži v dlånji maly prědmet. Tuto jest zaponka / broš za oblěčeńje. Ozdoba imaje formų zorjańskoj rozy. Tuto jest simbol Bogynje Večera, toj, ktora ruměni sę, kògda vidi zahod Sòlnca. Toj, ktoroj imę jest Zorja. On jest bronzovy, a v jego srědině jest črveny, pol-prozråčny kamenj. Tuta črvenosť jest kako iskra v očah Fialomiry. Ona kråtko stoji i ględaje bižuterijų, a potom bystro běži k naslědnomu stojišču. A možno li by tako…?
+# Bez nikakyh slov Nahoslav i trgovèc od togo stojišča poględajųt na sebe. Kupèc pokazyvaje dlånj i několiko pŕstov. Lovitelj bystro izimaje monety iz malogo měška, podavaje on je kupcu, hovaje ozdobų do kěšenji i skoro běži do Fialomiry.
+# “Ako li my uže bųdemo najdti jej dom i odčarovati Věčnų Zimų, tògda ja bųdų dati jej tuto, kako blågodarjeńje” - mysli Našèk i momentaľno ruměni sę na licu.
+# “Tuto jest dobra ideja” - on trěbuje izjasniti tuto sobě samomu.
+# 	Monety… monety sųt istinno krųgle porcije drågocěnnogo metala. V mnogosti drugyh, než Srědogråd, krajin tvoręt sę monety, ale Kamenogråd jest ješče dosť mlådy gråd, itak on ne imaje svoje groše.
+# 	Naško uže smogl je vzęti svoje pribory iz krčmy “Pod Orľjim Perom”. On koněčno imaje svoj meč i lųk. Želězno orųžje jest na pojasu pri jego boku, a lųk jest oblěčeny tętivojų o rųkų. Lovitelj na hrebetu imaje koževy sòdŕžnik, v ktorom jest několiko-nadsęť strěl. On hvala tomu čuje sę nemnogo vyše uvěrjeno i siľno. On jest priučeny vojevnik, ktory znaje, kako sę biti, kako rųbati i rězati neprijateljev. Pravdivo on nikògda ješče ne je iměl okazijų, da by prověriti svoje uměńje v pravdivom boju, ale on jest gotovy. Veliko gotovy.
+# """
+
     
     
 def cell_normalization(cell, jezyk):
