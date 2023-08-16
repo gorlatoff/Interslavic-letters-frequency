@@ -93,7 +93,7 @@ I za standardny alfabet:
 
 
 <details>
-  <summary>Transliteracija do standardnyh kirilice i latinice rabotaje dostatočno prosto. To jest oproščeny priměr, ktory ne uměje rabotati s VELIKYMI bukvami</summary>
+  <summary>Transliteracija do standardnyh kirilice i latinice rabotaje dostatočno prosto. To jest uproščeny priměr, ktory ne uměje rabotati s VELIKYMI bukvami</summary>
 
 ```python
 trans_tables = { 'isv_to_standard': 'ć-č ć-č ć-č ś-s ź-z ŕ-r ĺ-l ľ-l ń-n t́-t ť-t d́-d ď-d đ-dž ò-o ȯ-o ė-e è-e č-č š-š ž-ž ě-ě е̌-ě å-a ę-e ų-u',
