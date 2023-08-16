@@ -41,7 +41,7 @@ import matplotlib.pyplot as plt
 from collections import Counter
 ```
 
-Ja jesm dozvolil sobě malu volnost, tuta analiza bude koristati stary variant (do 2019 goda) variant etimologičnogo pravopisa. To jest od togo povoda zatože upotrěbjenje liter *t́d́ĺėȯ* zaměsto *ťďľèò* dělaje cěly spis tehničnyh problemov, a večša čest tekstov iz fajla imajut stary variant ortografije.
+Ja jesm dozvolil sobě malu volnost, tuta analiza bude koristati stary (do 2019 goda) variant etimologičnogo pravopisa. To jest od togo povoda zatože upotrěbjenje liter *t́d́ĺėȯ* zaměsto *ťďľèò* dělaje cěly spis tehničnyh problemov, a večša čest tekstov iz fajla imajut stary variant ortografije.
 
 Itak:
 
