@@ -26,7 +26,7 @@ Counter({'o': 39018, 'a': 33567, 'e': 24658, 'i': 24222, 't': 23769, 'n': 22895,
 
 V rezultatu vidimo něktore artefakty, kako napriměr egzotične bukvy jezyka Oblěčennyh Dolin iz povědky *"Nehaj nesut nas běle oblaky"*. Ili kiriličnu А i češsku Ň v medžuslovjanskom tekstu. A čto dělaje medžuslovjanin, kogda vidi grěšku? Samorazumno, on ide pisati do avtora knigy. 
 
-![Безымянный](Безымянный.png)
+![melac](melac.png)
 
 Okej, jesmo sdělali dobro dělo i tutčas jest vrěme vratiti se do raboty.
 
@@ -77,7 +77,7 @@ plt.show()
 
 
 
-Budemo izpolniti toj kod dva raza, za polny, etimologičny alfabet medžuslovjanskogo, i za variant, ktory jest transliterovany do standardnogo alfabeta (imam oddělnu biblioteku za toj cělj)
+Budemo izpolniti toj kod dva raza, za polny, etimologičny alfabet medžuslovjanskogo, i za variant, ktory jest transliterovany do standardnogo alfabeta (imam oddělnu [biblioteku](https://github.com/gorlatoff/Interslavic-letters-frequency/blob/main/isv_tools.py) za toj cělj)
 
 Itak, statistika za etimologičny:
 
