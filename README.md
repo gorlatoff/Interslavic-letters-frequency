@@ -97,10 +97,7 @@ Kako bonus, budemo pogleděti na kirilicu i čestotnost kiriličnyh bukv њ i љ
 
 ![freq_kir](freq_kir.png)
 
-<details> 
-<summary>
-
-```python
+>! ```python
 import matplotlib.pyplot as plt
 from collections import Counter
 
@@ -142,6 +139,3 @@ count_letters_frequency(text, isv_letters_lat, 'Čęstotnosť uživańja liter v
 count_letters_frequency(text_standard_lat, isv_letters_lat, 'Čęstotnosť uživańja liter v tekstu, latinica')
 count_letters_frequency(text_standard_cyr, isv_letters_cyr, 'Čęstotnosť uživańja liter v tekstu, kirilica')
 ```
-</summary>
-</details>
-
