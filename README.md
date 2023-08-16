@@ -26,7 +26,7 @@ Counter({'o': 39018, 'a': 33567, 'e': 24658, 'i': 24222, 't': 23769, 'n': 22895,
 
 V rezultatu vidimo něktore artefakty, kako napriměr egzotične bukvy jezyka Oblěčennyh Dolin iz povědky *"Nehaj nesut nas běle oblaky"*. Ili kiriličnu А ili češsku Ň v medžuslovjanskom tekstu. A čto dělaje medžuslovjanin, kogda vidi grěšku? Samorazumno, on ide pisati do avtora knigy. 
 
-![Безымянный](C:\Users\gorlatov\Box\Typora\Images for Typora\Безымянный.png)
+![Безымянный](Безымянный.png)
 
 Okej, jesmo sdělali dobro dělo i tutčas jest vrěme vratiti se do raboty.
 
