@@ -208,6 +208,7 @@ frequencies = Counter(frequencies)
   <summary>Rezultat:</summary>
 
 ```python
+>>> import pprint
 >>> pprint.pprint(frequencies)
 Counter({'je': 14553, #jotovana E
          'na': 7867,
