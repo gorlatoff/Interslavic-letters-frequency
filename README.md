@@ -184,7 +184,7 @@ count_letters_frequency(text_standard_cyr, isv_letters_cyr, 'Čęstotnosť uživ
 ```
 </details>
 
-Htěl byh povtoriti tu rabotu za druge slovjanske jezyky, zatože ne jesm smogl najdti statistiku za vsaky jezyk. Či někto znaje male ale mnogojezyčne datasety, ktore sut dobre za toj cělj? Ako li imajete komentare, prosim učestvovati v diskusiji v našem [Telegramu.](https://t.me/interslavicthings/400)
+Htěl byh povtoriti tu rabotu za druge slovjanske jezyky, zatože ne jesm smogl najdti statistiku za vsaky jezyk. Či někto znaje male ale mnogojezyčne datasety, ktore sut dobre za toj cělj? Ako li imajete komentare, prosim učestvovati v diskusiji v našem [Telegramu.](https://t.me/interslavicthings/402)
 
 
 
