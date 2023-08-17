@@ -34,7 +34,7 @@ Okej, jesmo sdělali dobro dělo i tutčas jest vrěme vratiti se do raboty.
 
 # Tvorjenje analizy
 
-Za tvorjenje diagrama upotrěbimo popularnu biblioteku [Plotly](https://plotly.com/graphing-libraries/) (prva versija članka uživala Matplotlib, ale praktika je pokazala, že on ne dozvaljaje radikalno izměnjenje razměrov diagrama).
+Za tvorjenje diagrama upotrěbimo popularnu biblioteku [Plotly](https://plotly.com/graphing-libraries/) (prva versija članka uživala Matplotlib, ale Plotly jest interaktivny i vyše prosty za stilizaciju).
 
 ```python
 import plotly.graph_objects as go
