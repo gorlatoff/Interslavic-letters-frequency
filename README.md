@@ -71,12 +71,14 @@ fig = go.Figure(go.Bar(
     y = counts,
     text = [f"{round(count, 2)}" for count in counts], #anotacije
     textposition = 'outside',
+    textfont = dict( size = 13),           
 ))
-
 fig.update_layout(
-    title = dict(text = title, font = dict(size = 18), x = 0.5, y = 0.85, xref="paper"),
+    title = dict(text = title, font = dict(size = 24), x = 0.5, y = 0.85, xref = "paper"),
     yaxis_title = 'percenty %',
     xaxis_title = 'Litery',
+    font = dict(size = 22),
+    yaxis = {'visible': True, 'showticklabels': False}
 )
     
 fig.show()
