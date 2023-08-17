@@ -4804,9 +4804,9 @@ Tutoj tort jest podobny na avto.
 Tutoj ubrus jest podobny na cvětòk.
 Tuto jest podobno na lice.
 Mlådec jest podobny na svojego otca.
-Tute ženy sųť podobne jedna na drugų.
-Mųži sųť podobni jedin na drugogo.
-Tute děvčiny ne sųť podobne jedna na drugų.
+Tute ženy sųt podobne jedna na drugų.
+Mųži sųt podobni jedin na drugogo.
+Tute děvčiny ne sųt podobne jedna na drugų.
 Oni ględęt jedin na drugogo.
 Oni ljubęt jedin drugogo.
 Mųž i žena pišųt jedin k drugomu.
@@ -4856,7 +4856,7 @@ Hlådiľnik jest bliz stola.
 Mašina za mytje posųdy jest pod stolom.
 Posųda v umyvaľniku ne jest čista.
 Posųda v mašině za mytje posųdy jest čista.
-Taliŕky i skljanky na stolu sųť nečiste.
+Taliŕky i skljanky na stolu sųt nečiste.
 Skljanka jest pòlna mlěka.
 Umyvaľnik jest pòlny posųdy.
 Mašina za mytje posųdy jest pusta.
@@ -4865,10 +4865,10 @@ Vědro za odpady nedobro vonjaje.
 Čiste prostriny imajųt prijętny aromat.
 Vědro za odpady jest pòlno.
 Glųboka taliŕka jest pusta.
-Skljanky sųť tòlste.
-Skljanky sųť puste.
+Skljanky sųt tòlste.
+Skljanky sųt puste.
 Vědro za odpady jest pusto.
-V stropu sųť okna.
+V stropu sųt okna.
 Strop jest běly.
 Pol jest drěvěny.
 Vědro za odpady jest na podlogě.
@@ -4895,7 +4895,7 @@ Izpraj oblěčeńje, prosim.
 Mųž prodavaje kilimy.
 Divan jest v sadu.
 Črveny kilim jest na podlogě.
-Na divanu sųť tri ljudi.
+Na divanu sųt tri ljudi.
 Kotka jest na divanu, a žena jest kolo divana.
 Dětę sědi na podlogě, a jego mama sědi na divanu.
 Žena sědi na divanu, a mųž stoji za divanom.
@@ -5026,7 +5026,7 @@ Tuto jest dobro město za futboľny trening.
 Tuto jest zlo město za sportivno trenovańje.
 Tuto jest dobro město za hođeńje na lyžah.
 Oni iščųt město za zajęťja historijejų.
-Oni sųť našli město za zajęťja historijejų.
+Oni sųt našli město za zajęťja historijejų.
 My iščemo město za sportivno trenovańje.
 My našli město za sportivno trenovańje.
 Někto napisal mně piśmo!
@@ -5049,7 +5049,7 @@ On vsegda nosi kravatų.
 Poněkògda ona nosi kravatų.
 Oni vsegda nosęt nogavky.
 Poněkògda oni nosęt nogavky.
-Lajmy vsegda sųť kysle.
+Lajmy vsegda sųt kysle.
 Čokolada ne byvaje kyslojų.
 Cukr vsegda jest slådky.
 Peprec ne byvaje slådkym.
@@ -5074,12 +5074,12 @@ To je rųka děvčiny.
 rųka
 noga
 oki
-Tuto sųť moje nogy.
+Tuto sųt moje nogy.
 Tuto jest moja rųka.
-Tuto sųť moje oči.
-Tuto sųť moje uši.
+Tuto sųt moje oči.
+Tuto sųt moje uši.
 Tuto jest moj nos.
-Tuto sųť moje usta.
+Tuto sųt moje usta.
 Ona poranila rųkų.
 Ja jesm poranil nos.
 On poranil oči.
@@ -5112,7 +5112,7 @@ Ja jesm zabolěla. Imajete li vy lěky?
 Ja jesm izšèl na ulicų v dòžď.
 Ja jesm lězl na drěvo i upadl.
 Ja jesm upadl i poranil rųkų.
-Kògda oni surfovali na lyžah, oni sųť upadli i poranili nogų.
+Kògda oni surfovali na lyžah, oni sųt upadli i poranili nogų.
 Mama izprala tvoj svetr.
 Včera večeròm ja jesm protancevala tri časiny.
 Včera večeròm ja tancevah tri časiny.
@@ -5204,7 +5204,7 @@ Trěba li mně zamesti podlogų?
 Da, tobě je trěba zamesti podlogų.
 V kakoj čas oni bųdųt prijdi?
 Oni prijdųt v tri časiny.
-Mųži sųť izigrali.
+Mųži sųt izigrali.
 Žena izigrala.
 Děvčina izigrala.
 Mlådec izigral.
@@ -5215,7 +5215,7 @@ Komanda v zelenyh teniskě izigryvaje.
 My jesmo izigrali!
 Ja jesm proigrala!
 Děvčina je izigrala, a mlådec je proigral.
-Oni sųť ščęstlivi, zato že oni izigrali.
+Oni sųt ščęstlivi, zato že oni izigrali.
 Mųž skrbi, zato že proigral.
 Mųž v zelenom je izigral.
 Nikto ne jedaje.
@@ -5296,8 +5296,8 @@ Ja znam, koliko ja imajų grošev.
 Ja ne znam, koliko jih jest.
 Ona znaje, koliko tuto koštųje.
 Nikto ne znaje, koliko ryb je v okeanu.
-On ne znaje, že oni sųť v domu.
-Ja ne znajų, kde sųť moje ključe.
+On ne znaje, že oni sųt v domu.
+Ja ne znajų, kde sųt moje ključe.
 Oni ne znajųt, čto to je.
 Ona ne znaje, že on prinesl jemu cvěty.
 Ty znaješ, kto on je?
@@ -5347,7 +5347,7 @@ U nas, věrojętno, ne je dostatòčno. Nam je trěba kupiti tort.
 Egipt je v Afrikě.
 Italija je v Evropě.
 Brazilija je v Južnoj Amerikě.
-Sjedinjene Štaty sųť v Sěvernoj Amerikě.
+Sjedinjene Štaty sųt v Sěvernoj Amerikě.
 Avstralija - to je kraj i kontinent.
 Kitaj jest v Aziji.
 Tutoj kontinent je Afrika.
@@ -5406,11 +5406,11 @@ Ona bųde postati jego ženojų!
 My jesmo ščęstlivi.
 Oni bojęt sę.
 Ja skrbjų.
-Oni sųť ščęstlivi, zato že oni igrajųt.
+Oni sųt ščęstlivi, zato že oni igrajųt.
 Žena skrbi, zato že ona uježđaje.
 On boji sę, zato že on nikògda ne vodil avto.
 Ljudi na pogrebańju skrbęt.
-Ljudi na svaťbě sųť ščęstlivi.
+Ljudi na svaťbě sųt ščęstlivi.
 Ona boji sę, zato že zablųdila sę.
 Moj babica imala svaťbu sto lět tomu nazad v Afrikě.
 Ja jesm urodila pętnadsęť lět tomu nazad v Južnoj Amerikě.
@@ -5424,8 +5424,8 @@ My osvatili pęťdesęt lěto tamtomu nazad.
 Ljudi iz Evropy pripluli v Sěvernų Amerikų pęťsòt lět tomu nazad.
 Ja jesm upadl s velosipeda dvě časiny tomu nazad.
 Tutoj člověk jest mŕtvy už mnogo lět.
-Oni sųť oženjeni už dvadesęť pęť lět.
-Oni sųť oženjeni jedin god.
+Oni sųt oženjeni už dvadesęť pęť lět.
+Oni sųt oženjeni jedin god.
 Ja učų sę muzikě pętnadsęť lět.
 On igraje v golf desęť lět.
 Oni živųt v Avstraliji pęť lět.
@@ -5513,7 +5513,7 @@ Ja bųdu ostati sę v Španiji na jednų sedmicų.
 Potom ja bųdų pojehati na pojezdu v Němcijų.
 Mųž ide po pustynji.
 Tuta životina žive v pustynji.
-Tute cvěty sųť v tropičnom lěsu.
+Tute cvěty sųt v tropičnom lěsu.
 Tropičny lěs jest bliz plaža.
 Kde ty tuto sfotografovali?
 Ja jesm sfotografoval tuto v pustynji, v Meksikě.
@@ -5521,7 +5521,7 @@ Ja jesm sfotografoval tuto v tropičnom lěsu, v Braziliji.
 råstliny
 životiny
 ljudi
-Drěva to sųť velike råstliny.
+Drěva to sųt velike råstliny.
 To jest mala råstlina.
 Něktore råstliny imajųt cvěty.
 Něktore råstliny ne imajųt cvětov.
@@ -5575,13 +5575,13 @@ Je li tuto jego pès?
 Ne, jejny.
 Čija jest tuta větrova lodka?
 Jego.
-Čije tuto sųť rųky?
-Tuto sųť jejne rųky.
-Čije tuto sųť igračky?
-Tute igračkove auta sųť naše.
+Čije tuto sųt rųky?
+Tuto sųt jejne rųky.
+Čije tuto sųt igračky?
+Tute igračkove auta sųt naše.
 Tutoj męč jest naš.
 Čije je tuto orųďje?
-Tute bųbèny sųť moje.
+Tute bųbèny sųt moje.
 Tuta gitara jest moja.
 Toj pès jest jego.
 Tutoj pès jest jejny.
@@ -5615,21 +5615,21 @@ Tuta ptica je žòlta.
 Tuta ptica je črvena.
 Tuta ptica sědi na cvětu.
 Tuta ptica sědi na drěvu.
-Tute ptice sųť zelene.
-Tute ptice sųť plyvųt.
+Tute ptice sųt zelene.
+Tute ptice sųt plyvųt.
 Tuta ptica hće jedati.
 Tuta ptica može govoriti.
 Jedna iz tutyh ovc je koričneva.
-Tute kråvy sųť črno-běle.
-Tute katky sųť běle.
-Tute kury sųť koričneve.
+Tute kråvy sųt črno-běle.
+Tute katky sųt běle.
+Tute kury sųt koričneve.
 ovca
 kråva
 katka
 kura
-Pingvini sųť pticami.
-Kury sųť pticami.
-Katky sųť pticami.
+Pingvini sųt pticami.
+Kury sųt pticami.
+Katky sųt pticami.
 Pingvini ne mogųt lětati, ale mogųt dobro plavati.
 Tute ptice letęt na sěver.
 Tute ptice ne mogųt lětati, ale mogųt siľno bystro běgati.
@@ -5639,13 +5639,13 @@ Pingvin je v vodě.
 Kyti plyvųt.
 Tute katky letęt.
 Tuta ptica je krasiva.
-Tute ptice sųť nekrasne.
+Tute ptice sųt nekrasne.
 Tuto je krasiva ulica.
 Tuto je nekrasna ulica.
 Moja kotka ne je krasna.
 Moj pès ne je krasny.
-Vaše konje sųť krasive.
-Moje kråvy sųť krasive.
+Vaše konje sųt krasive.
+Moje kråvy sųt krasive.
 Tuta statuja je krasiva.
 Tuta statuja ne je krasna.
 Moja suknja je krasiva.
@@ -5688,14 +5688,14 @@ Kotka ne boji sę psa.
 On boji sę akul.
 Oni bojęt sę zmije.
 Ja bojų sę dotykati sę do insekta, no moj otec govori, že tuto ne je opasno.
-Moja mama skazala, že tute životiny sųť iz Afriky.
+Moja mama skazala, že tute životiny sųt iz Afriky.
 Ja bojų sę dotykati sę do ovce, ale moj učitelj govori, že tuto ne je opasno.
-Moj děd skazal, že tute zmije sųť iz Avstralije.
+Moj děd skazal, že tute zmije sųt iz Avstralije.
 Tuto je naš malpica.
 Tuto je jih katka.
-Tuto sųť naše kury.
-To sųť jih kråvy.
-Či tuto sųť vaše ključe?
+Tuto sųt naše kury.
+To sųt jih kråvy.
+Či tuto sųt vaše ključe?
 Da, naše.
 Či tutoj pès je vaš?
 Ne, jih.
@@ -5703,14 +5703,14 @@ Kaka skljanka je moja? Tuta je tvoja.
 Kakogo město jest moje? Tuto je vaše.
 Pardon, tuto je vaše? Da, blågodarjų. Tuto je moje.
 Tutoj kufèr je vaš .
-Tute męče sųť tvoje.
+Tute męče sųt tvoje.
 Pardon, či tutoj dòždnik je vaš?
 Tuto paljto je vaše.
 Či tuto avto je vaše?
 Či tuto je moja skljanka? Da, tvoja.
-Či tuto sųť vaše děti?
+Či tuto sųt vaše děti?
 Mene zadovaljajųt tute. Vaše zadovoljajųt vęće, než moje.
-Tvoje sųť vkųsne. Ale jejne sųť vyše vkųsne od tvojih.
+Tvoje sųt vkųsne. Ale jejne sųt vyše vkųsne od tvojih.
 Poględite na tuto avto! Jih avto jest vyše nečisto od našego.
 On igraje na violině. Poględi, jego violina jest vyše nova od tvojej.
 Tvoja ptica je veľmi krasiva. Odkųd je ona?
@@ -5797,8 +5797,8 @@ Oni myslęt, že historija jest nudna.
 Jejna kniga jest mnogo interesna.
 Jego kniga nudna.
 Ona dumaje, že tutoj muzej je veľmi nudny.
-On dumaje, že prirodne nauky sųť veľmi interesne.
-Knigy jemu sųť interesne, a televizor je nudny.
+On dumaje, že prirodne nauky sųt veľmi interesne.
+Knigy jemu sųt interesne, a televizor je nudny.
 Igra je interesna za mųžev, ale je nudna za jih prijateljek.
 Tuta kniga jest interesna.
 Tutoj film jest nudny.
@@ -5841,7 +5841,7 @@ Važno je prijehati v aeroport v akuratny čas.
 Čemu je važno praktikovati sę? Zato že ty smožeš pojdti v dobry universitet.
 Čemu jest važno čistiti zųby?
 Zato že tvoje zųby bųdųt postati čistěje i bělěje.
-Či to sųť važne papiry? Ne, one ne sųť važne.
+Či to sųt važne papiry? Ne, one ne sųt važne.
 Ja dumajų, že matematika jest interesna i važna.
 Ja znam, že važno je zajmati sę sportom, ale mysljų, že to je nudno.
 Ja znam, že je važno jedati zeleninų, ale ja jų ne ljubjų.
@@ -5894,7 +5894,7 @@ Ne, ja sovsim ne jesm jedal zeleninų.
 Sješ, prosim, vsu zeleninų.
 Jeste li vy znakomi s mojimi prijateljami?
 Ne, ja ne jesm znakom ni s jednym iz njih.
-Tuto sųť moji prijatelji Emma, Světlana, Anton i Mito.
+Tuto sųt moji prijatelji Emma, Světlana, Anton i Mito.
 Ja ne mogų najdti svoje obuvky.
 Jestli ty bųdeš očistiti svojų salų, togda, věrojętno, bųdeš najdti.
 Vy ne znajete, kde jest proslavjena statuja? Jestli vy pojedete v centr gråda, tògda uvidite jų.
@@ -5906,7 +5906,7 @@ Tutoj mųž žive v pustynji.
 Tuta rodina provodi svoje vakacije v pustynji.
 Či vaša rodina planuje vakacije v tutom lětu? Da. My planujemo pojehati v Meksiku na avtomobilu.
 Vy dobro govorite na russkom. Vy tut živete? Ne. Ja tut jesm na vakacijah.
-Oni imajųt dolary, a u mene sųť jedino jeny.
+Oni imajųt dolary, a u mene sųt jedino jeny.
 Ona jedaje salatų i sendvič, a ja - jedino salatų.
 U njego jest nož i vilica, a u mene jest jedino vilica.
 On imaje četyri knigy, a ja jedino tri.
@@ -5922,9 +5922,9 @@ Dolary jest rod valuty.
 Evra jest rod valuty.
 Jeny jest rod valuty.
 Rublj jest rod valuty.
-U mene sųť jedino evra. V Japoniji mně bųde trěba råzměniti jih na jeny.
+U mene sųt jedino evra. V Japoniji mně bųde trěba råzměniti jih na jeny.
 Vy možete råzměniti svoje evra v aeroportu.
-Mně sųť potrěbne funty, a u mene sųť jedino dolary.
+Mně sųt potrěbne funty, a u mene sųt jedino dolary.
 Vy možete råzměniti valutų v banku.
 Kde možno råzměniti valutų?
 Vy možete råzměniti jų na stanciji.
@@ -5941,8 +5941,8 @@ Pardon, jest li na tutoj ulici bankomat?
 Da, bankomat jest bliz banka.
 Ja mysljų, že ne.
 Mųž nese aktovkų.
-Učenice nesųť svoje rukzaky.
-Ženy nesųť drva.
+Učenice nesųt svoje rukzaky.
+Ženy nesųt drva.
 Mųž nese svojego syna.
 Ne bųdeš li ty ponesti mojų aktovkų? Pardon. Ja ne smogų jego nesti.
 Ne bųdeš li ty ponesti tuto? Moj rukzak je pòlny.
@@ -5992,7 +5992,7 @@ Ne, na tu košulų nema rabata.
 Ona je glådna. Ako li by ona sjedla sendvič, ona by ne byla glådna.
 Tu je nudno sěděti.
 Ako li ja byh imal knugų, bylo by vyše interesno.
-Oni imajųt dòždnik. Oni ne sųť promoknųli.
+Oni imajųt dòždnik. Oni ne sųt promoknųli.
 Ako li by u njih byl dòždnik, oni/one by ne råzmoknųli.
 V mojem rukzaku jest město. Ja bųdų ponesti tvoj fotoaparat.
 Ako li by v mojem rukzaku bylo město, ja byh ponesla tvoj fotoaparat.
@@ -6018,10 +6018,10 @@ Ona je veľmi velika. V mojem rukzaku nema města.
 Ako li by u mene byl vęćši rukzak, ja byh smogl jų ponesti.
 Mně trěba kupiti vęćši rukzak.
 Ne, ty možeš položiti jų v moj kufèr. Ja dumajų, že v njem jest město. Jest město? Da!
-Děti sųť ščęstlivi, zato že jedajųt piccų.
+Děti sųt ščęstlivi, zato že jedajųt piccų.
 Kolač je na električnoj pěći.
 Mųž gotovi piccų.
-U mojej mamy sųť veľmi vkųsne kolače!
+U mojej mamy sųt veľmi vkųsne kolače!
 tretinų kolača
 pol kolača
 cěly kolač
@@ -6057,7 +6057,7 @@ Děvčina dŕži cěly kolač.
 Męč je krųgly.
 Tutoj dom je kvadratny.
 Tutoj kųsòk syra je kvadratny.
-Časovniky sųť krųgle.
+Časovniky sųt krųgle.
 Tutoj plod je krųgly.
 Tutoj krajec hlěba je kvadratny.
 Kake časovniky vy hćete?
@@ -6109,7 +6109,7 @@ Kakoj razměr imaje naš stol? Jedin metr v dòlgosť i šesťdesęt centimetrov
 Kakų vyšinų imaje tutoj budynòk? Vyšina tutogo budynka je sto metrov.
 Vyšina tutogo drěva je pętnadsęť metrov.
 Koliko koštujųt kvitky? Dumajų, že one koštujųt ne menje než desęt dolarov.
-Koliko koštujųt kvitky? One sųť koštovali dvanadsęť dolarov.
+Koliko koštujųt kvitky? One sųt koštovali dvanadsęť dolarov.
 Koliko pomaranč je na tutom drěvu? Ja ne znam, ale dumajų, že ne menje od pęťdesęti.
 Koliko nam je potrěbno taliŕek? Nam je potrěbno ne menje desęti taliŕek.
 Goreće. Mysljų, že temperatura jest ne menje než tridesęť stųpnjev. Da, temperatura je tridesęť jedin stųpenj.
@@ -6147,7 +6147,7 @@ Ja koristam odvŕtkų.
 On koristaje gaječny ključ.
 Ja koristajų mlåtòk.
 Ona koristaje klešče.
-Tobě sųť potrěbne klešče ili odvŕtka?
+Tobě sųt potrěbne klešče ili odvŕtka?
 Dati mně, prosim, klešče.
 Tobě jest potrěbny gaječny ključ ili mlåtòk?
 Daj mně, prosim, mlåtòk.
@@ -6188,7 +6188,7 @@ U mene jest vŕtka, ale mi jest potrěbna odvŕtka.
 Tuta ryba je zamråžena.
 Tuta pomaranča jest sveža.
 Tuta picca je zamråžena.
-Tute limony sųť svěže.
+Tute limony sųt svěže.
 Imajete li svěžų rybų?
 Izvinite, imajemo jedino zamråženų rybų.
 Imajete li svěžų zeleninų? Da, vot one.
@@ -6198,13 +6198,13 @@ On klade svěže pomidory na piccų.
 Tuta životina ljubi banany.
 Banan jest gnily.
 Pomidor jest nespěly.
-Jablòky sųť spěle.
-Ne jedaj jih! One sųť gnile.
-Skoro my bųdemo jih jedati, a tutčas one ješče sųť nespěle.
+Jablòky sųt spěle.
+Ne jedaj jih! One sųt gnile.
+Skoro my bųdemo jih jedati, a tutčas one ješče sųt nespěle.
 Počekaj jedin denj, i banany bųdųt pospěti.
 Tut svěže pomidory iz sada.
-Pomidory sųť nespěle.
-Pomidory sųť spěle.
+Pomidory sųt nespěle.
+Pomidory sųt spěle.
 Pomidory gnile.
 Banan jest nespěly.
 Banan jest spěly.
@@ -6216,7 +6216,7 @@ Skljanka s sokom jest hlådna.
 Čaj jest goręći.
 Męso jest zamråženo.
 Pomaranča jest gnila.
-Tute pomidory sųť svěže.
+Tute pomidory sųt svěže.
 Ona klade peprec v polivka.
 Ja kladų cukr v čaj.
 On peče hlěb.
@@ -6342,10 +6342,10 @@ Tutčas nikto ne glåsuje.
 Oni stojęt v rędu na glåsovańje.
 On glåsuje.
 Ona je proglåsovala.
-Dneś sųť izbory. Ljudi glåsujųt.
-Bez malogo vsi sųť proglåsovali za njego. Ja dumajų, že on bųde izigrati na izborah.
-Izbory sųť iztekli. Vsi sųť proglåsovali.
-Izbory sųť byli včera.
+Dneś sųt izbory. Ljudi glåsujųt.
+Bez malogo vsi sųt proglåsovali za njego. Ja dumajų, že on bųde izigrati na izborah.
+Izbory sųt iztekli. Vsi sųt proglåsovali.
+Izbory sųt byli včera.
 On je proigral na izborah.
 On je izigral na izborah.
 V minulom měsęcu on je izigral na izborah.
@@ -6363,7 +6363,7 @@ V tutom budynku je mnogo flagov.
 Meksikanki tancujųt.
 Němci ględęt igrų.
 Rusi glåsujųt za prezidenta.
-Amerikanci nesųť flagy.
+Amerikanci nesųt flagy.
 Italijani igrajųt v futbol.
 On hće, da by igrų izigrali Francuzi.
 Kųdy ty ideš?
@@ -6391,10 +6391,10 @@ Skazali, kto izigral futboľnų igrų?
 Ne, ale v blizky čas bųdųt skazati.
 Ona čitaje noviny v žurnalu.
 Ja čitam noviny v Internetu.
-Dneś v časopisu sųť važne věsti!
+Dneś v časopisu sųt važne věsti!
 Sųt li někake věsti ob izborah?
 V rędu na glåsovańje jest mnogo ljudij.
-Sųt li někake věsťi ob igrě? Brazilci sųť izigrali.
+Sųt li někake věsťi ob igrě? Brazilci sųt izigrali.
 Mųži ględajųt igrų po televizoru.
 Žena ględi věsťi po televizoru.
 Děti ględajųt interesny film po televizoru.
@@ -6405,10 +6405,10 @@ Jesi li ty čitala věsťi o kråljevě? Ona posěćaje Indijų.
 Kogo pokazyvajųt po televizoru? Po televizoru pokazyvajųt premier-ministra.
 Čto pokazyvajųt po televizoru? Po televizoru pokazyvajųt igrų.
 Po televizoru pokazyvajųt pogodų.
-Kake dneś sųť věsťi? Krålj imal svaťbų.
+Kake dneś sųt věsťi? Krålj imal svaťbų.
 Kråljeva posětila boljnicų.
 Prezident Francije sòšèl sę s kråljem Španije.
-Na tutom znaku slova sųť na råznyh językah.
+Na tutom znaku slova sųt na råznyh językah.
 Tuta kniga jest na dvoh językah.
 Tuto je davny język.
 Na kolikyh językah vy govorite?
@@ -6428,8 +6428,8 @@ Na russkom to nazyvaje sę kniga.
 Tuti mųži råbotajųt v jednoj firmě.
 Tuti ženy råbotajųt v råznyh firmah.
 Naša firma kupila tutoj budynòk.
-V firmě sųť zabavy.
-O tutoj firmě sųť dobre věsťi.
+V firmě sųt zabavy.
+O tutoj firmě sųt dobre věsťi.
 V kakoj firmě vy råbotajete?
 Ja råbotajų v kompaniji «Viler i syni».
 Kako davno vy tam råbotajete?
@@ -6478,11 +6478,11 @@ Męč byl shvačeny!
 Kto je shvatil męč? Męč shvatil Luka Modrič.
 Tuto foto bylo sdělano v jedna tysęća devęťsòt dvadesęť treťjem godu.
 Tuto foto sdělala moja babica.
-Ljudi sųť sòglåsni, za kogo trěba glåsovati.
-Ljudi ne sųť sòglåsni, za kogo trěba glåsovati.
-Prijatelji sųť sòglåsni v tom, kaky film trěba ględěti.
-Brat i sestra ne sųť sòglåsni v tom, kto izigral.
-Oni ne sųť sòglåsni v tom, kaky kolor trěba izbrati.
+Ljudi sųt sòglåsni, za kogo trěba glåsovati.
+Ljudi ne sųt sòglåsni, za kogo trěba glåsovati.
+Prijatelji sųt sòglåsni v tom, kaky film trěba ględěti.
+Brat i sestra ne sųt sòglåsni v tom, kto izigral.
+Oni ne sųt sòglåsni v tom, kaky kolor trěba izbrati.
 Mųži sòglåsni jedin s drugym v tom, kako avto jest lěpje od drugyh.
 Ja mysljų, že tuto jest jego najlěpši živopis. Ja ne jesm sòglåsny. Ja myslju, že vot tuto jest jego najlěpši živopis.
 Ja myslim, že naš ekipa izigraje.
@@ -6556,7 +6556,7 @@ On o vas govoril. Prijętno poznati sę, Aleksej.
 Ty ne jesi zabyla proglåsovati dneś utrom? Da, ja jesm zabyla.
 Ne zabųdi proglåsovati dneś! Dobro. Ja bųdų proglåsovati poslě råboty.
 Čto ty studijuješ v školě? My studijujemo o životinah, ktori živųt v okeanu.
-Je li tuto interesno? Da. Ja myslim, že kyti i akuly sųť veľmi interesni.
+Je li tuto interesno? Da. Ja myslim, že kyti i akuly sųt veľmi interesni.
 Ženy prěględajųt živopis.
 Tuti děti učęt sę životin.
 Jego dòćera uči sę Brazilijų.
@@ -6643,14 +6643,14 @@ Trěba li mně idti v školų? Da. Dneś ne je svętòk.
 Trěba li mně idti v školų? Ne. Dneś je svętòk.
 Na tutom paradě igraje muzika.
 Na tutoj paradu ženy tancujųt.
-Na tutoj paradu ženy nesųť na glåvě plody.
+Na tutoj paradu ženy nesųt na glåvě plody.
 Začto dneś je parada?
 My slavimo kitajsky Novy god.
 Naša futboľna ekipa izigrala vse igry!
-Tuto sųť hinduistke statuje.
+Tuto sųt hinduistke statuje.
 Tuto jest hristijanska cŕkva.
 Oni posěćajųt budijsky hram.
-Tuti ljudi sųť v jevrejskoj sinagogě.
+Tuti ljudi sųt v jevrejskoj sinagogě.
 Tutoj člověk jest v muslimanskoj mečetě.
 Oni slavęt hinduistky svętòk.
 Oni slavęt budijsky svętòk.
@@ -6666,10 +6666,10 @@ Moj syn i jego prijateljka planujųt svaťbų!
 Čto ty čitaješ? Ja čitam o jevrejskyh svętkah.
 Začto ty čitaješ o jevrejskyh svętkah?
 Zato že dneś ja obědam s jevrejskoj sěmjejų.
-Muzikanti sųť gotovi igrati.
+Muzikanti sųt gotovi igrati.
 Pěvateljka ne je gotova pěvati.
 Jesi li ty gotova obědati?
-Tuti mųži sųť gotovi k turniru po běgu.
+Tuti mųži sųt gotovi k turniru po běgu.
 Mųž je bez malogo gotovy idti na råbotų, ale jego žena ne jest gotova.
 Jesi li ty gotova voziti sę na konju?
 Čas idti na svaťbų. Jesi li ty gotova? Ne, ja ješče ne jesm gotova. Ja bųdų gotova v blizky čas.
@@ -6691,7 +6691,7 @@ Pozdråv! Kako jesi?
 Kak minųli tvoje vakacije? Veľmi dobro.
 Kųdy ty jesi jezdila? Ja jesm jezdila v sěvernų Japonijų i Indijų.
 Čto ty jesi viděla v Japoniji? V tutom grådu zimojų Japonci budujųt veľmi velike doma iz sněga.
-Pravda! One sųť veľmi krasive. Či zadovolilo li tebe jedivo?
+Pravda! One sųt veľmi krasive. Či zadovolilo li tebe jedivo?
 Da. Ryba byla veľmi vkųsna. Poslě Japonije ja jesm pojehala v Indijų. Jih taksi izględajųt sovsim ne tako, kak naše.
 V čas indijskyh svętkov mnogi ljubęt tancevati i pěvati.
 Moj prijatelj Kiril vozil sę na slonu po grådu!

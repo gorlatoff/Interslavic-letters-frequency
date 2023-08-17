@@ -179,9 +179,6 @@ text_standard_cyr = isv.transliteracija(text, 'isv_to_cyrillic')
 count_letters_frequency(text, isv_letters_lat, 'Čęstotnosť uživańja liter v tekstu, etimologičny alfabet')
 count_letters_frequency(text_standard_lat, isv_letters_lat, 'Čęstotnosť uživańja liter v tekstu, latinica')
 count_letters_frequency(text_standard_cyr, isv_letters_cyr, 'Čęstotnosť uživańja liter v tekstu, kirilica')
-
-
-
 ```
 </details>
 
