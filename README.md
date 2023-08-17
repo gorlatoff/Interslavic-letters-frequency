@@ -2,7 +2,7 @@ Kake bukvy sut najvyše važne pri učenju pravopisa i izgovora? Kake potrěbuju
 
 ## Etap 1, sbiranje tekstov
 
-Jestvuje ne tako mnogo velikyh i kvalitetnyh tekstov na etimologičnom pravopisu, zato rabota ne bude težka. Ja jesm rěšil vzeti povědku Melaca *"Nehaj nesut nas běle oblaky"* (ješče ne je publična, tutčas jest na etapu zapisyvanja audio-knigy), medžuslovjansky [Turističny fraznik](https://docs.google.com/spreadsheets/d/1YvdNWgGD6ql00AF884ak9xCXPy-W1VbcCNO_6prdg9g/edit?usp=sharing) i moje prěvody fraz iz Rosetta Stone. Trěba bylo sjediniti teksty, nemnogo očistiti jih, i... Gotovo, dane sut [sobrane](https://github.com/gorlatoff/Interslavic-letters-frequency/blob/main/isv.txt). 
+Jestvuje ne tako mnogo velikyh i kvalitetnyh tekstov na etimologičnom pravopisu, zato proces jih sbiranja bude dostatočno bystrym. Ja jesm rěšil vzeti povědku Melaca *"Nehaj nesut nas běle oblaky"* (ješče ne je publična, tutčas jest na etapu zapisyvanja audio-knigy), medžuslovjansky [Turističny fraznik](https://docs.google.com/spreadsheets/d/1YvdNWgGD6ql00AF884ak9xCXPy-W1VbcCNO_6prdg9g/edit?usp=sharing) i moje prěvody fraz iz Rosetta Stone. Trěba bylo sjediniti teksty, nemnogo očistiti jih, i... Gotovo, dane sut [sobrane](https://github.com/gorlatoff/Interslavic-letters-frequency/blob/main/isv.txt). 
 
 Položimo fajl v folder s programom i pročitajemo jego:
 
@@ -41,7 +41,7 @@ import plotly.graph_objects as go
 from collections import Counter
 ```
 
-Ja jesm dozvolil sobě malu volnost, tuta analiza bude koristati stary (do 2019 goda) variant etimologičnogo pravopisa. To jest od togo povoda zatože upotrěbjenje liter *t́d́ĺėȯ* zaměsto *ťďľèò* dělaje cěly spis tehničnyh problemov, a večša čest tekstov iz fajla imaje stary variant ortografije.
+Ja jesm dozvolil sobě malu volnost, tuta analiza bude koristati stary (do 2019 goda) variant etimologičnogo pravopisa. To jest od togo povoda že upotrěbjenje liter *t́d́ĺėȯ* zaměsto *ťďľèò* dělaje cěly spis tehničnyh problemov, a večša čest tekstov iz fajla imaje stary variant ortografije.
 
 Itak:
 
@@ -86,7 +86,7 @@ fig.show()
 
 
 
-Budemo izpolniti toj kod tri razy, za etimologičny alfabet medžuslovjanskogo, i za varianty, ktore sut transliterovane do standardnyh latinice i kirilice (imam oddělnu biblioteku za toj cělj)
+Izpolnimo toj kod tri razy, za etimologičny alfabet medžuslovjanskogo, i za varianty, ktore sut transliterovane do standardnyh latinice i kirilice (imam oddělnu biblioteku za toj cělj)
 
 Itak, statistika za etimologičny:
 
@@ -100,7 +100,7 @@ I za standardny latiničny alfabet:
 
 
 <details>
-  <summary>Transliteracija do standardnyh kirilice i latinice ne je složena. To jest uproščeny priměr, ktory ne uměje rabotati s VELIKYMI bukvami</summary>
+  <summary>Transliteracija do standardnyh kirilice i latinice ne je težka. To jest uproščeny priměr, ktory ne uměje rabotati s VELIKYMI bukvami</summary>
 
 ```python
 trans_tables = { 'isv_to_standard': 'ć-č ć-č ć-č ś-s ź-z ŕ-r ĺ-l ľ-l ń-n t́-t ť-t d́-d ď-d đ-dž ò-o ȯ-o ė-e è-e č-č š-š ž-ž ě-ě е̌-ě å-a ę-e ų-u',
@@ -122,9 +122,9 @@ text_standard_cyr = transliteracija(text, 'isv_to_cyrillic')
 </details>
 
 
-Možemo tut viděti věči, o ktoryh mnogi ljudi sut myslili i ranje. Tak, *Yy* i *Ěě* sut najmenje važne iz standardnyh samoglasok, i zaisto imamo alternativne projekty, ktore jih ignorujut. *Ęę*, *Ųų* i *Åå* sut najvyše česte etimologične bukvy, i rekomendacija učiti se jim jesvovala i ranje. 
+Možemo tut viděti věči, o ktoryh mnogi ljudi sut myslili i ranje. Tak, *Yy* i *Ěě* sut najmenje važne iz standardnyh samoglasok, i zaisto imamo alternativne projekty, ktore jih ignorujut. *Ęę*, *Ųų* i *Åå* sut najvyše česte etimologične bukvy, i rekomendacija učiti se jim jestvovala i ranje. 
 
-Imamo takože autsajdera, *Đđ* ne jest ni često uživana, ni važna za grammatiku (kako mekke zvuky *ŕćńśźťďľ*  ).
+Imamo takože autsajdera, *Đđ* ne jest ni često uživana, ni važna za gramatiku (kako mekke zvuky *ŕćńśźťďľ*  ).
 
 Takože, budemo pogleděti na kirilicu i čestotnost kiriličnyh bukv њ i љ. Rezultat jest prědvidimy, tute bukvy zajedno imajut jedino 0.67% od srědnogo teksta na kirilici. Ne jest divno že ljudi regularno dělajut s njimi grěšky.
 
