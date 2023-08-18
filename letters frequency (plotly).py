@@ -27,7 +27,7 @@ def count_letters_frequency(text, alphabet, title):
 
     fig.update_layout(
         title=dict(text=title, font=dict(size=24), x=0.5, y=0.85, xref="paper"),
-        yaxis_title='percenty %',
+        yaxis_title='procenty %',
         xaxis_title='Litery',
         font=dict(size=22),
         yaxis={'visible': True, 'showticklabels': False}
