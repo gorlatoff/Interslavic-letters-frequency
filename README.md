@@ -108,11 +108,8 @@ trans_tables = { 'isv_to_standard': 'ć-č ć-č ć-č ś-s ź-z ŕ-r ĺ-l ľ-l 
 }
 
 def transliteracija(text, lang):
-    if lang not in trans_tables.keys():
-        return text
     for i in trans_tables[lang].split(' '):
         letters = i.split('-')
-        print(f"'{letters[0]}' - '{letters[1]}'")
         text = text.replace(letters[0], letters[1])
     return text
 
