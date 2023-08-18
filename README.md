@@ -55,7 +55,7 @@ text = [char for char in text if (char in isv_letters)]
 frequencies = Counter(text)
 frequencies = sorted(frequencies.items(), key=lambda x: x[1], reverse=True)
 
-#razděljajemo naš rezultat na oddělne spisy, a čestotnost bukv (counts) prěvodimo v percenty
+#razděljajemo naš rezultat na oddělne spisy, a čestotnost bukv (counts) prěvodimo v procenty
 letters = [ i[0] for i in frequencies ]
 counts = [ i[1] for i in frequencies ]
 counts = [ i / sum(counts)*100 for i in counts]
@@ -75,7 +75,7 @@ fig = go.Figure(go.Bar(
 ))
 fig.update_layout(
     title = dict(text = title, font = dict(size = 24), x = 0.5, y = 0.85, xref = "paper"),
-    yaxis_title = 'percenty %',
+    yaxis_title = 'procenty %',
     xaxis_title = 'Litery',
     font = dict(size = 22),
     yaxis = {'visible': True, 'showticklabels': False}
@@ -160,7 +160,7 @@ def count_letters_frequency(text, alphabet, title):
 
     fig.update_layout(
         title=dict(text=title, font=dict(size=18), x=0.5, y=0.85, xref="paper"),
-        yaxis_title='percenty %',
+        yaxis_title='procenty %',
         xaxis_title='Litery',
     )
 
